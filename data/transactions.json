@@ -1,0 +1,79 @@
+[
+    {
+        "transaction_type": "Expense",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-11-05",
+        "description": "Groceries"
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 1500.0,
+        "category": "Saving",
+        "date": "2026-11-05",
+        "description": ""
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 120.0,
+        "category": "Data",
+        "date": "2026-11-05",
+        "description": ""
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 600.0,
+        "category": "Transport",
+        "date": "2026-11-05",
+        "description": ""
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 500.0,
+        "category": "Childcare",
+        "date": "2026-11-05",
+        "description": "Sending some money to my first child"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 57.0,
+        "category": "Food",
+        "date": "2026-11-05",
+        "description": "Groceries"
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 1000.0,
+        "category": "Transport",
+        "date": "2026-11-05",
+        "description": ""
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 35000.0,
+        "category": "Salary",
+        "date": "2026-11-05",
+        "description": ""
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 500.0,
+        "category": "car",
+        "date": "2026-11-04",
+        "description": ""
+    },
+    {
+        "transaction_type": "Expense",
+        "amount": 500.0,
+        "category": "Rent",
+        "date": "2026-11-07",
+        "description": "Paid rent for my sister"
+    },
+    {
+        "transaction_type": "Income",
+        "amount": 200.0,
+        "category": "Allowance",
+        "date": "2026-11-07",
+        "description": ""
+    }
+]
