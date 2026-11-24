@@ -102,6 +102,6 @@ Transaction records are saved in JSON format and loaded when the application sta
 
 This project demonstrates practical software development skills using Python, including object-oriented programming, file handling, JSON data persistence, graphical user interface development, data visualisation, input validation and software testing.
 
-## 👤 Author
+## Author
 
 *Celokuhle Sandise Ntete* - Junior Data Analyst | Honours Mathematics
